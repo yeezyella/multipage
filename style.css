@@ -1,0 +1,47 @@
+
+
+
+
+a:hover{
+  background-color: gray;
+  color: blue;
+}
+
+a:active{
+  background-color: orange;
+  color: lightskyblue;
+}
+
+nav a {
+  text-decoration:none;
+  margin:20px;
+}
+body{
+  background-image:url("https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg");
+   background-repeat: no-repeat;
+  background-size:cover;
+}
+
+
+h1, a p{
+color: white;
+}
+*{
+  color: white;
+}
+
+h1:first-letter{
+  font-size: 2em; 
+  color: purple;
+  
+}
+
+a[target]{
+  background-color: purple;
+  color: yellowgreen
+}
+
+img{
+  width:40%;
+  margin:30px;
+}
